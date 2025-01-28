@@ -10,7 +10,7 @@
 ## Screenshot  
 Here’s a preview of the app:  
 
-![My Maps Screenshot](SS/s1.png)  
+<img src="SS/s1.png" alt="My Maps Screenshot" width="400">  
 
 ## Tools & Technologies  
 - **Flutter**: For building the app UI  

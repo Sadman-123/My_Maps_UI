@@ -1,16 +1,17 @@
-# lox0
+# My Maps  
 
-A new Flutter project.
+**My Maps** is a UI-focused Flutter app designed to showcase a visually appealing map interface. The app leverages `MediaQuery` to ensure responsiveness and adaptiveness across various screen sizes and devices.  
 
-## Getting Started
+## Features  
+- Interactive and intuitive map-based user interface  
+- Fully responsive design with `MediaQuery`  
+- Optimized for both small and large screens  
 
-This project is a starting point for a Flutter application.
+## Screenshot  
+Here’s a preview of the app:  
 
-A few resources to get you started if this is your first Flutter project:
+![My Maps Screenshot](SS/s1.png)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tools & Technologies  
+- **Flutter**: For building the app UI  
+- **MediaQuery**: To achieve a responsive layout  

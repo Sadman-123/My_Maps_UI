@@ -7,7 +7,7 @@
 - Fully responsive design with `MediaQuery`  
 - Optimized for both small and large screens  
 
-## Screenshot  
+## SS 
 Here’s a preview of the app:  
 
 <img src="SS/s1.png" alt="My Maps Screenshot" width="400">  
